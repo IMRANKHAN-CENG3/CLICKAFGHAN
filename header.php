@@ -24,10 +24,7 @@
 							<a class="" href="" style="color: #fff; margin-right: 10%;">Register</a>
 							<a href="" id="Login" style="color: #fff">Login</a>
 						</div>
-						<p style="color: #fff">Search</p>
-						<div class="col-sm-6" style=" margin-bottom: 10%">
-							<input type="" name="">
-						</div>
+					
 				</div>
 				
 			</div>
